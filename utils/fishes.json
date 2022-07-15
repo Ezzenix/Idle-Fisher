@@ -1,0 +1,38 @@
+{
+	"Aqua": {
+		"Worth": 9,
+		"Emoji": "<:aqua:997474541951533098>"
+	},
+	"Blue": {
+		"Worth": 10,
+		"Emoji": "<:blue:997474558284148746>"
+	},
+	"Green": {
+		"Worth": 11,
+		"Emoji": "<:green:997474571093561374>"
+	},
+	"Lime": {
+		"Worth": 12,
+		"Emoji": "<:lime:997474585500975165>"
+	},
+	"Orange": {
+		"Worth": 13,
+		"Emoji": "<:orange:997474597962272788>"
+	},
+	"Pink": {
+		"Worth": 14,
+		"Emoji": "<:pink:997474609374953482>"
+	},
+	"Purple": {
+		"Worth": 15,
+		"Emoji": "<:purple:997474619999129610>"
+	},
+	"Red": {
+		"Worth": 16,
+		"Emoji": "<:red:997474632460406816>"
+	},
+	"Yellow": {
+		"Worth": 17,
+		"Emoji": "<:yellow:997474651494174770>"
+	}
+}
